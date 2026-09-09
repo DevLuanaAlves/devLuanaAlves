@@ -67,7 +67,7 @@
   
  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=flat-square&logo=gmail&logoColor=fff)](mailto:luanafernandes.3350@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luana-fernandes-807ba73b4/)
- [![Meu Site](https://img.shields.io/badge/meu%20site%20--pink)](https://meusite-phi-azure.vercel.app/)
+ [![Meu Site](https://img.shields.io/badge/meu%20site%20--pink)](https://meusite-luaninha.vercel.app/)
 
 </div>
 
