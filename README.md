@@ -39,8 +39,7 @@
 
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg">
+ 
     
 </div> 
 <br>
