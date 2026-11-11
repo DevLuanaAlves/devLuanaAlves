@@ -1,7 +1,5 @@
+## Olá! Sou a Luana Alves!
 
-
-
-# Olá! Sou a Luaninha
 <h3 align="center">
   Computer Science Student | Software Development
 </h3>
@@ -31,17 +29,16 @@
 
 ##  Sobre mim
 
-Tenho interesse em desenvolvimento de software, tecnologias web, e criar aplicações que resolvem problemas reais.
-
--  Estudante de ciência da computação no IFCE.
--  Exploro Front-end e Back-end.
--  Interessada em engenharia de software, banco de dados e inteligência artificial. 
--  Estou sempre buscando aprender novas tecnologias. 
+-  2 anos na área de TI
+-  Estudante de ciência da computação no IFCE
+-  Desenvolvedora Full-Stack
+-  Faço parte do projeto Instituto de Maria (Trabalho voluntário - Um sistema de gerenciamento) 
+-  Interesse em áreas de desenvolvimento de software e inteligência artificial
+-  Estou sempre buscando aprender novas tecnologias
 
 <h2>💻 Linguagens</h2>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-
 
 
 <h2>⚛️ Frameworks & Libraries</h2>
@@ -58,14 +55,6 @@ Tenho interesse em desenvolvimento de software, tecnologias web, e criar aplica�
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 
 
-### Outras tecnologias
-
-- JavaFX
-- JUnit
-- Apache Ant
-- FXML
-
-
 ## 💻 Linguagens mais usadas 
 
 <p align="left">
@@ -74,12 +63,6 @@ Tenho interesse em desenvolvimento de software, tecnologias web, e criar aplica�
     alt="Top Languages"
   />
 </p>
-
-
-
-
-
-
 
 
 
